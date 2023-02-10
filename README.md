@@ -1,0 +1,2 @@
+# car-racers
+you must open index.html with open live server(or someway open it with a server), because im a dumb guy who doesn't know how to setup a server :_(, the browser doesn't allow acess to local files, although you can open index.html(as you always do) file after opening it with live server(you can even close it, after doing this), if you dont want to do this instructions then you will only be able to see a beatiful picture of Mônaco ;).
