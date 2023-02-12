@@ -31,6 +31,7 @@ const fazerUi = (data) =>{
         img.src = data.personalidadesFamosas[property].img;
 
         card.append(img);
+        
 
         button.onclick = function () {
             currentPerson = data.personalidadesFamosas[property];
