@@ -2,7 +2,7 @@
 var res = null;
 
 const getJsonArchive = async() => {
-    const res = await fetch("dataBase.Json");
+    const res = await fetch("../dataBase.Json");
     const data = await res.json();
     console.log(data);
     
