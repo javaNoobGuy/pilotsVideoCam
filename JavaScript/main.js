@@ -2,7 +2,8 @@
 var res = null;
 
 const getJsonArchive = async() => {
-    const res = await fetch("../dataBase.Json");
+    const res = await fetch("https://javanoobguy.github.io/Api-Pilotos-Famosos/dataBase.json");
+    
     const data = await res.json();
     console.log(data);
     
